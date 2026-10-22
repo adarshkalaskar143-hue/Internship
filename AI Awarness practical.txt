@@ -1,0 +1,50 @@
+1. Meta developed the Llama models.
+2. Google developed the Gemini models.
+3. Anthropic developed the Claude models.
+4. xAI developed the Grok models.
+5. 
+6. OpenAI created the GPT model family.
+7. Video generation is the main use case for Sora.
+8. Google is the creator of the Veo video model.
+9. Image generation from text is the primary purpose of Midjourney.
+10. Coding assistance and autocomplete is the main function of GitHub Copilot.
+11. Large Language Model is what LLM stands for.
+12. Generative AI is a type of artificial intelligence that creates new content, such as text, images, video, or audio.
+13. A prompt is the text input, question, or instruction given to an AI model to guide its response.
+14. A system prompt is a background instruction that defines the AI's persona, rules, boundaries, and overall behavior.
+15. Multimodal AI means a model can understand and process multiple types of data inputs, such as text, images, audio, and video.
+16. An AI hallucination happens when a model confidently generates false, inaccurate, or completely fabricated information.
+17. Tokens are the small pieces or fragments of text (like words, subwords, or characters) that an LLM uses to read and write.
+18. A context window is the maximum number of tokens an AI model can process and remember during a single conversation.
+19. Inference is the live process of a trained AI model analyzing a new input and generating a prediction or answer.
+20. 
+21. An AI agent is an autonomous system that can reason, plan, use external tools, and take actions to achieve specific goals.
+22. A chatbot only responds to user text inputs in a conversational format, while an AI agent can autonomously execute multi-step workflows and interact with external applications.
+23. Tool calling is the ability of an AI model to recognize when a specific function needs to be executed and output the required structured arguments for it.
+24. Model Context Protocol is what MCP stands for in modern AI development.
+25. An API key is a unique passcode used to authenticate and authorize a developer or application accessing a specific AI service.
+26. An API rate limit is a restriction that sets the maximum number of requests or tokens you can send to an AI service within a given timeframe.
+27. 
+28. Their own uploaded notes and documents (like PDFs, links, or text) are what NotebookLM is mainly designed to help users synthesize and interact with.
+29. Semantic search is a search method that analyzes the contextual meaning and intent behind a query rather than just matching exact keywords.
+30. Code generation, debugging syntax errors, and writing automated tests are three tasks where developers can use Generative AI productively.
+31. Speech-to-text AI is a technology that converts spoken audio signals into written text format.
+32. Text-to-speech AI is a technology that converts written text into synthetic spoken audio or human-like voices.
+33. Written or printed text is what OCR allows a computer to recognize and extract from an image or document.
+34. A vision model is an AI system trained to process, analyze, and understand visual information like images and videos.
+35. Text-to-video AI refers to artificial intelligence systems that generate moving video clips based entirely on text instructions.
+36. 
+37. Parallel processing capabilities allow GPUs to handle thousands of mathematical tasks simultaneously, making them ideal for heavy AI workloads.
+38. Neural Processing Unit is what NPU stands for, which is a specialized chip designed specifically to accelerate machine learning algorithms.
+39. 
+40. Running an AI model locally means executing the software directly on your own device's hardware instead of using cloud servers over the internet.
+41.
+42. Model distillation is a technique where a smaller, faster "student" model is trained to replicate the performance and knowledge of a larger, complex "teacher" model.
+43.
+44. Mixture of Experts is what MoE stands for in AI models.
+45. An AI benchmark is a standardized test or dataset used to evaluate and compare the performance, accuracy, or speed of different AI models.
+46. A guardrail is a safety mechanism or policy programmed into an AI application to block harmful, biased, or inappropriate inputs and outputs.
+47. Prompt injection is a vulnerability or exploit where a user crafts an input to bypass an AI model's safety guardrails and force it to follow unauthorized instructions.
+48. Personally Identifiable Information is what PII stands for.
+49. Data privacy risks are created because public AI tools may store your text or use it to train future models, potentially leaking sensitive intellectual property.
+50. Fact-check and verify the information against reliable, independent primary sources before making any critical choices.
